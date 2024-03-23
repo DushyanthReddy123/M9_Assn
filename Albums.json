@@ -1,0 +1,38 @@
+[
+    {
+        "album_title": "Mind Of Mine",
+        "artist": "Zayn Malik",
+        "year": 2016,
+        "tracks": [
+            "She", 
+	    "Drunk", 
+	    "Flower", 
+	    "Its You", 
+            "Pillowtalk"
+        ]
+    },
+    {
+        "album_title": "Harry House",
+        "artist": "Harry Styles",
+        "year": 1980,
+        "tracks": [
+            "As It Was",
+            "Late Night",
+            "Grapejuice",
+            "Daylight",
+            "Little Freak"
+        ]
+    },
+    {
+        "album_title": "LP1",
+        "artist": "Liam Payne",
+        "year": 2019,
+        "tracks": [
+            "Stack It Up",
+            "Rude Hours",
+            "Tell Your Friends",
+            "Live Forever",
+            "Say It All"
+        ]
+    }
+]
